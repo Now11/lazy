@@ -1,1 +1,1 @@
-# laizy
+# lazy
